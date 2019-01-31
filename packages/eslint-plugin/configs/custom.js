@@ -5,6 +5,7 @@ module.exports = {
 	rules: {
 		'@wordpress/dependency-group': 'error',
 		'@wordpress/no-unused-vars-before-return': 'error',
+		'@wordpress/gutenberg-phase': 'error',
 		'no-restricted-syntax': [
 			'error',
 			{
